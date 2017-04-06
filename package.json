@@ -1,0 +1,12 @@
+{
+  "name": "notifications",
+  "main": "server.js",
+  "engines": {
+    "node": "7.6.0",
+    "npm": "4.1.2"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
